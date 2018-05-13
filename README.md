@@ -1,6 +1,10 @@
 # SPA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+- Angular CLI: 1.7.4. 
+- Angular: 5.2.10.
+- Node: 8.11.1. 
+- NPM: 5.6.0 
 
 ## Development server
 
